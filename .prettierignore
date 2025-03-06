@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+
+/vendor
+/node_modules
+/public
+/database
+/config
+/bootstrap
+/tests
+/storage
