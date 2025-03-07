@@ -18,7 +18,6 @@
             </div>
         </div>
         <div class="relative p-4 h-full flex-1 overflow-hidden rounded-xl border border-neutral-200 dark:border-neutral-700">
-            <livewire:user-table/>
         </div>
     </div>
 </x-layouts.app>
